@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Big+Shoulders+Text:100,300,400,500,600,700,800,900&display=swap');
 
-/* font-family: 'Big Shoulders Text', cursive;  lets see how it looks in our website*/
+/* font-family: 'Big Shoulders Text', cursive;  lets see how it looks in our website */
 
 .nav-flex-row {
     display: flex;
@@ -29,7 +29,7 @@
 
 .section-intro {
     height: 820px;
-    background-image: url(img/petr-sevcovic-qE1jxYXiwOA-unsplash.jpg);
+    background-image: url(petr-sevcovic-qE1jxYXiwOA-unsplash.jpg);
     background-size: cover;
     display: flex;
     flex-direction: column;
